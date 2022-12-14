@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/ohatland/hardhat-tutorial#readme",
   "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
     "hardhat": "^2.12.4"
   }
 }
